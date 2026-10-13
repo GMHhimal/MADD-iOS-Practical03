@@ -1,5 +1,6 @@
 // SE4041 Practical 03 - Exercise 05: Enumerations
 // Student: G M H Himal | IT23152632
+//Change Local Name
 
 print("=== Exercise 05: Enums ===")
 
